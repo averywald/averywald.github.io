@@ -1,0 +1,10 @@
+To get started:
+
+        cd averywald.github.io
+        npm run dev
+
+  To build & start for production:
+
+        cd averywald.github.io
+        npm run build
+        npm run start
