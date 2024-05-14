@@ -1,5 +1,5 @@
 <template>
   <main>
-    todo: make landing page here!
+    <ContentDoc />
   </main>
 </template>
