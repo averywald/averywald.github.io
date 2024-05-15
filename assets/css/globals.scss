@@ -1,0 +1,33 @@
+body {
+    width: auto;
+    height: 100vh;
+    
+    margin: 0;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    div#__nuxt {
+        width: 50%;
+    }
+}
+
+.card {
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    margin: 5%;
+    padding: 10%;
+
+    background-color: rgb(245, 245, 245);
+    border-radius: 5px;
+
+    h2 {
+        margin: 0;
+    }
+
+}
